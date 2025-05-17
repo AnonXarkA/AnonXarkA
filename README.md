@@ -19,6 +19,10 @@
 ###
 
 <div align="center">
+  ɪɴʙᴏᴜɴᴅ ᴛʀᴀᴄᴇꜱ
+</div>
+
+<div align="center">
   <img src="https://profile-counter.glitch.me/AnonXarkA/count.svg?"  />
 </div>
 
