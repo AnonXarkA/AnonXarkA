@@ -1,19 +1,25 @@
-## Hi there 👋
+<h2 align="left"></h2>
 
-<!--
-**AnonXarkA/AnonXarkA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnonXarkA&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
 
+<div align="center">
+  <img height="400" src="https://i.postimg.cc/L8zdXQPj/giphy.gif"  />
+</div>
 
-![](https://komarev.com/ghpvc/?username=AnonXarkA&color=dc143c)
+###
+
+<img src="https://raw.githubusercontent.com/AnonXarkA/AnonXarkA/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AnonXarkA/count.svg?"  />
+</div>
+
+###
