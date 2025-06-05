@@ -19,7 +19,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AnonXarkA/AnonXarkA/output/snake.sv" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AnonXarkA/AnonXarkA/output/snake.svg" alt="Snake animation" />
 
 ###
 
