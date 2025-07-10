@@ -34,7 +34,9 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AnonXarkA/count.svg?"  />
+  
+  
+  ![](https://komarev.com/ghpvc/?username=AnonXarkA&base=1000&color=000000&style=for-the-badge&label=)
 </div>
 
 ###
